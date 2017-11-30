@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\ecee53161f1d0a802fb6c293d6740c9df3454895\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\7fcb6cd3e9e2f2e79168fae1536b0a50a87dc065\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Android\.android\build-cache\83e8de01a81068d8bb69df7ab8afa7c749219555\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Android\.android\build-cache\5a8478853e5743e8f9c38a654e94c03085f075d5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\bb4d53947db20c0416c0ae67620bd56bf8910e4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\1edbf18e1d3d2ed9ce57ff52a3a42f9550d53126\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\b8506a8801aa8a4016ed3f2fce8a89a093dbbe38\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\68cd0ad6431445c11992f83fad9713d05d7b36a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Android\.android\build-cache\e2ede499c950c2784090e567ab5d1a36cf18d5a0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\baeaf09449eeebd4aa2d8bf815d569d040acc1d6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\8ef646d7108b74a2dab125e19354af946b748586\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\55dbf110857b882c79b0f31873758667357b039b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:15:9-46
+activity#com.own.isspasses.activities.MainActivity
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:17:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.own.isspasses.activities.PassListActivity
+ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:24:9-74
+	android:name
+		ADDED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml:24:19-62
+uses-sdk
+INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\ecee53161f1d0a802fb6c293d6740c9df3454895\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\7fcb6cd3e9e2f2e79168fae1536b0a50a87dc065\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Android\.android\build-cache\83e8de01a81068d8bb69df7ab8afa7c749219555\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Android\.android\build-cache\5a8478853e5743e8f9c38a654e94c03085f075d5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\bb4d53947db20c0416c0ae67620bd56bf8910e4e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\1edbf18e1d3d2ed9ce57ff52a3a42f9550d53126\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\b8506a8801aa8a4016ed3f2fce8a89a093dbbe38\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\68cd0ad6431445c11992f83fad9713d05d7b36a3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.volley:volley:1.0.0] C:\Android\.android\build-cache\e2ede499c950c2784090e567ab5d1a36cf18d5a0\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\baeaf09449eeebd4aa2d8bf815d569d040acc1d6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Android\.android\build-cache\389ad9ba8a5f0a7da9e4352dae129f62a4c5554f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\8ef646d7108b74a2dab125e19354af946b748586\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\55dbf110857b882c79b0f31873758667357b039b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECTS\StudioProjects\ISSPasses\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\ecee53161f1d0a802fb6c293d6740c9df3454895\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\7fcb6cd3e9e2f2e79168fae1536b0a50a87dc065\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\bb4d53947db20c0416c0ae67620bd56bf8910e4e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\1edbf18e1d3d2ed9ce57ff52a3a42f9550d53126\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\b8506a8801aa8a4016ed3f2fce8a89a093dbbe38\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\68cd0ad6431445c11992f83fad9713d05d7b36a3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Android\.android\build-cache\389ad9ba8a5f0a7da9e4352dae129f62a4c5554f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\8ef646d7108b74a2dab125e19354af946b748586\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\55dbf110857b882c79b0f31873758667357b039b\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\AndroidManifest.xml:20:20-65

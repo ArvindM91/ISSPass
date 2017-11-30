@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\389ad9ba8a5f0a7da9e4352dae129f62a4c5554f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_3da923031dfa802f4d63085bcaeda8d606230590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\55dbf110857b882c79b0f31873758667357b039b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_1578004243852528514763d6a5211b8cc5abeebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\5a8478853e5743e8f9c38a654e94c03085f075d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_1cad37b62562081c9202bfe4852173a90e169384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8ef646d7108b74a2dab125e19354af946b748586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_2caccdb64201e42cf0d500e3d092f9985f3032d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\15393e9f79b91505f8fdaf9d6f3e3ac12a163944\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_cda0f578b107b0273d88900fe28e4a88fc9f815d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b8506a8801aa8a4016ed3f2fce8a89a093dbbe38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_295c701921931ecfc5af837e5e634c3b0a052c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\e47282aa66057a8433211f5e9d3d38c876cd17c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_9991faf6dc3906f8da6d1af5e2dd87038ae3ff7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\83e8de01a81068d8bb69df7ab8afa7c749219555\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_86e2d294c3c02b5d7410ee4033be960c6529cc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\68cd0ad6431445c11992f83fad9713d05d7b36a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_2deb632aeef8f9a1456773219b4b879c553beaa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\1edbf18e1d3d2ed9ce57ff52a3a42f9550d53126\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_7d51403b131a98e54ff670aeaec66374a380fbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\7fcb6cd3e9e2f2e79168fae1536b0a50a87dc065\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_a181da16d461181f03dd50857dca0e2500229ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\6d2848d11595e55bc936c846633c72f6d30b254c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_228e5dc76088e008c4dc319ba5de3d6be49da36f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\e2ede499c950c2784090e567ab5d1a36cf18d5a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_7298e828213c9a0320e2e0f9ff31fc3dd9debe8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surya Prakash\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\gson-2.8.1_732ba3affa5341a4c832aad096ef82641163419b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\bb4d53947db20c0416c0ae67620bd56bf8910e4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_501f6edc952094a066860e04cb1cdb32de23167a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ecee53161f1d0a802fb6c293d6740c9df3454895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\PROJECTS\StudioProjects\ISSPasses\app\build\intermediates\pre-dexed\debug\classes_4acd5d42147d0339e19f554e9380a3837f504104.jar" />
+    </item>
+
+</items>
